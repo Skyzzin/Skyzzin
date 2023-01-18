@@ -4,9 +4,5 @@
 )](https://www.linkedin.com/in/douglas-silva-309b4522a/)
 
 
-  
-  ![skyzzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyzzin&langs_count=8)](https://github.com/skyzzin/github-readme-stats)
+ 
 
