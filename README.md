@@ -1,6 +1,6 @@
 
 > # Desenvolvedor Web FullStack
-> ## JavaScript Python React Express
+> ## JavaScript Python React Node
 
  ![](https://i.pinimg.com/750x/32/b1/63/32b163078a4bafad8c18877d5587037c.jpg)
 ![](https://i.pinimg.com/750x/31/ec/fb/31ecfb8135937ebd491e4058c0ae55ee.jpg)
