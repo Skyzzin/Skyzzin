@@ -5,6 +5,8 @@
 > ## Projetos Pessoais
 > [Repositorio Dos Projetos](https://github.com/skyzzin/Projetos-Principais)
 
+![](https://i.pinimg.com/750x/31/89/fe/3189fe1ecbc896f29457deb1d355ac3d.jpg)
+
 
  ![](https://i.pinimg.com/750x/32/b1/63/32b163078a4bafad8c18877d5587037c.jpg)
 ![](https://i.pinimg.com/750x/31/ec/fb/31ecfb8135937ebd491e4058c0ae55ee.jpg)
