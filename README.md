@@ -1,13 +1,19 @@
+## Olá! Eu sou o Douglas🖐️
 
-> # Desenvolvedor Web FullStack
-> ## JavaScript Python React Node
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-> ## Projetos Pessoais
-> [Repositorio Dos Projetos](https://github.com/skyzzin/Projetos-Principais)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
- ![](https://i.pinimg.com/750x/32/b1/63/32b163078a4bafad8c18877d5587037c.jpg)
-![](https://i.pinimg.com/750x/31/ec/fb/31ecfb8135937ebd491e4058c0ae55ee.jpg)
-![](https://i.pinimg.com/750x/25/06/5b/25065b54de2b1b2e6d5bdacd34af0834.jpg)
-![](https://i.pinimg.com/750x/25/b2/be/25b2be8b79964ae63960d94786cea17e.jpg)
+## Tecnologias que eu uso no meu dia
 
-
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
