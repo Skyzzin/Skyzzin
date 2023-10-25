@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Douglas🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://douglas-dev.netlify.app/)
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=Portifolio.com)](https://douglas-dev.netlify.app/)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula&count_private=true)
