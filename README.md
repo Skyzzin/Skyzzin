@@ -6,8 +6,4 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula&count_private=true)
 
 # C++
-
-![![image](https://github.com/skyzzin/skyzzin/assets/76598304/79d9fe86-79cd-4b54-b2ed-9823539febf8)
-](https://github.com/skyzzin/esp-ui)
-
-
+![https://private-user-images.githubusercontent.com/76598304/317613138-543555d3-4f1c-4802-965b-7af8931e6a35.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2ODM0NjgsIm5iZiI6MTcxMTY4MzE2OCwicGF0aCI6Ii83NjU5ODMwNC8zMTc2MTMxMzgtNTQzNTU1ZDMtNGYxYy00ODAyLTk2NWItN2FmODkzMWU2YTM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI5VDAzMzI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3OTU2ZWZjNGU0YTBkYzZiYTNjNDNjMjQwNDg4OTUzN2E4Y2Y2ZWRmNmJkNDgyMGE2YTYzNWViNmY5ZWNlOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zeXd3Az-YiJNycrlI72sjXQrxEPSUT8nWWOdtmINmpM](https://github.com/skyzzin/esp-ui)
