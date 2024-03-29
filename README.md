@@ -6,7 +6,8 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula&count_private=true)
 
 # C++
-![![image](https://github.com/skyzzin/skyzzin/assets/76598304/f17c3d7b-946f-4036-8d8c-a0d356b05697)
+
+![![image](https://github.com/skyzzin/skyzzin/assets/76598304/79d9fe86-79cd-4b54-b2ed-9823539febf8)
 ](https://github.com/skyzzin/esp-ui)
 
 
