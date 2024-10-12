@@ -12,4 +12,4 @@ https://github.com/skyzzin/MX-MachinarIO
 MX-AUTH
 https://github.com/skyzzin/MX-AUTH
 
-!(CofeMe)[https://github.com/skyzzin/skyzzin/blob/main/img.jpg]
+!(cofeMe)[https://github.com/skyzzin/skyzzin/blob/main/img.jpg?raw=true]
