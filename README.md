@@ -5,8 +5,8 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula&count_private=true)
 
-# Projetinho Cpp
-ESP-UI https://github.com/skyzzin/esp-ui
+# MX-MachinarIO 
+https://github.com/skyzzin/MX-MachinarIO
 
-# Projetinho Java
-CompressedTech https://github.com/skyzzin/compressed_tech
+# MX-AUTH
+https://github.com/skyzzin/MX-AUTH
