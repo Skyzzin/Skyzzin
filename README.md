@@ -5,8 +5,9 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzzin&show_icons=true&theme=dracula&count_private=true)
 
-# MX-MachinarIO 
+# Minecraft Plugins
+## MX-MachinarIO 
 https://github.com/skyzzin/MX-MachinarIO
 
-# MX-AUTH
+## MX-AUTH
 https://github.com/skyzzin/MX-AUTH
