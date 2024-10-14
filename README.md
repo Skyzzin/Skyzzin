@@ -12,6 +12,9 @@ https://github.com/skyzzin/MX-MachinarIO
 MX-AUTH
 https://github.com/skyzzin/MX-AUTH
 
+MX-CustomGUI
+https://github.com/skyzzin/MX-CustomGUI
+
 # ☕ Donete Cofe Me ☕
 # PIX
 ![cofeMe](https://github.com/skyzzin/skyzzin/blob/main/img.jpg?raw=true)
